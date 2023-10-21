@@ -1,0 +1,22 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejoteran/CursoJSAPI.git"
+  },
+  "author": "Daniel Alejandro Teran Escobar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alejoteran/CursoJSAPI/issues"
+  },
+  "homepage": "https://github.com/alejoteran/CursoJSAPI#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
