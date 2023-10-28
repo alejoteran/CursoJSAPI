@@ -1,4 +1,4 @@
-require("doteenv").config();
+require("dotenv").config();
 
 const config = {
     MONGO_USER : process.env.MONGO_USER,
